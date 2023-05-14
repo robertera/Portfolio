@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio Pessoal</title>
+
+    <!-- Normalize -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <!-- Fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link href="assets/fonts/neue -machina-regular.otf">
+
+    <!-- Css -->
+    <link rel="stylesheet" href="assets/css/global.css">
+    <link rel="stylesheet" href="assets/css/header.css">
+    <link rel="stylesheet" href="assets/css/skills.css">
+    <link rel="stylesheet" href="assets/css/languages.css">
+    <link rel="stylesheet" href="assets/css/portfolio.css">
+    <link rel="stylesheet" href="assets/css/experience.css">
+    <link rel="stylesheet" href="assets/css/acordeon.css">
+</head>
+
+<body>
+    <main>    
+    <header class="header">
+        <img class="photo" src="assets/img/my-photo.png" alt="Foto de Roberto feita por inteligencia artificial no estilo cyber-punk">
+
+        <h1 class="title">
+           Ola, <br> Eu sou <br>Roberto C A Junior
+        </h1>
+        <div class="information">
+            <p class="job">Junior Developer</p>
+            <p class="location">Matinhos - PR - BR</p>
+            <p class="phone">
+                <a href="tel: (41) 9 9573-1599">(41) 9 9573-1599</a> 
+            </p>
+            <p class="email">
+                <a href="mailto: robertokorzun@hotmail.com">robertokorzun@hotmail.com</a>
+            </p>
+        </div>
+    </header>
+        <section class="acordeon open">
+            <button class="trigger" type="button">
+                    <h2>Skills</h2>
+            </button>
+            <div class="content">
+                <div class="skills">
+                    <section class="tools">
+                        <h3>Habilidades profissionais:</h3>
+                        <ul>
+                            <li>
+                                <img src="./assets/img/icons/skills/java-script.svg" alt="javascript" title="javascript">
+                            </li>
+                            <li>
+                                <img src="./assets/img/icons/skills/react.svg" alt="react" title="react">
+                            </li>
+                            <li>
+                                <img src="./assets/img/icons/skills/typescipt.svg" alt="typescript" title="typescript">
+                            </li>
+                            <li>
+                                <img src="./assets/img/icons/skills/java.svg" alt="java" title="java">
+                            </li>
+                            <li>
+                                <img src="./assets/img/icons/skills/php.svg" alt="php" title="php">
+                            </li>
+                            <li>
+                                <img src="./assets/img/icons/skills/docker.svg" alt="docker" title="docker">
+                            </li>
+                            <li>
+                                <img src="./assets/img/icons/skills/git.svg" alt="git" title="git">
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="personal">
+                        <h3>Habilidades Pessoais:</h3>
+                        <ul>
+                            <li>Organização e Planejamento</li>
+                            <li>Trabalho em equipe</li>
+                            <li>Facilidade em comunicação</li>
+                            <li>Boas Habilidades de Escrita</li>
+                            <li>Flexibilidade e Criatividade</li>
+                            <li>Inteligencia Emocional</li>
+                        </ul>
+                    </section>
+                </div>
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                    <h2>Idiomas</h2>
+            </button>
+            <div class="content">
+                <ul class="languages">
+                    <li>Português(BR)</li>
+                    <li>Inglês (Avançado)</li>
+                    <li>Francês (Básico)</li>
+                    <li>Espanhol (Básico)</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                    <h2>Portfolio</h2>
+            </button>
+            <div class="content">
+                <ul class="portfolio">
+                    <li>
+                        <span class="title github"> Pokedex em JavaScript com a POKE-API</span>
+                        <a href="https://www.google.com.br" target="_blank"> Link1</a>
+                    </li>
+                    <li>
+                        <span class="title github"> Landpage UpsideDown</span>
+                        <a href="https://www.google.com.br" target="_blank"> Link2</a>
+                    </li>
+                    <li>
+                        <span class="title github"> (TCC) CMS para site IFPR</span>
+                        <a href="https://www.google.com.br" target="_blank"> Link3</a>
+                    </li>
+                </ul>
+                
+            </div>
+        </section>
+
+        <section class="acordeon">
+            <button class="trigger" type="button">
+                   <h2>Experiência profissional</h2>
+            </button>
+            <div class="content">
+                <ul class="experience">
+                    <li>
+                        <h3 class="title">Atendimento ao Cliente / Caioba Telecom</h3>
+                        <p class="period">Dezembro 2020 - Janeiro 2021</p>
+                        <p> 
+                            Prestei assistência aos clientes com suporte à conexão com a Internet, solução de problemas relacionados a modems, cabos, roteadores e outros assuntos técnicos.
+                            Conduzi o suporte ao cliente por telefone, e-mail e chat, fornecendo orientações técnicas e problemas claros e concisos para a resolução do problema.
+                            Ferramentas de software utilizadas para rastreamento de chamadas e registro de informações de suporte.
+                            Trabalhei em equipe com outros membros do suporte técnico para garantir uma resolução de problemas rápida e eficiente.
+                            Tecnologias utilizadas: modems, cabos, roteadores e outras soluções de conectividade de rede.
+                        </p>
+                    </li>
+                </ul>
+                
+            </div>
+        </section>
+    </main>
+
+    <script src="/assets/js/acordeon.js"></script>
+</body>
+
+</html>

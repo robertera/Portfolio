@@ -1,0 +1,81 @@
+{
+    "name": ">Roberto C A Junior",
+    "photo": "",
+    "job": "Junior Developer",
+    "location": "Matinhos - PR - BR",
+    "phone": "(41) 9 9573-1599",
+    "email": "robertokorzun@hotmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "JavaScript",
+          "logo": ""
+        },
+        {
+          "name": "Java",
+          "logo": ""
+        },
+        {
+          "name": "TypeScript",
+          "logo": ""
+        },
+        {
+          "name": "React",
+          "logo": ""
+        },
+        {
+          "name": "PHP",
+          "logo": ""
+        },
+        {
+          "name": "Docker",
+          "logo": ""
+        },
+        {
+            "name": "Git",
+            "logo": ""
+        }
+      ],
+      "softSkills": [
+        "Organização e Planejamento",
+        "Facilidade em comunicação",
+        "Trabalho em equipe",
+        "Flexibilidade e Criatividade",
+        "Inteligencia Emocional"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (Avançado)",
+      "Francês (Básico)",
+      "Espanhol (Básico)"
+    ],
+    "portfolio": [
+      {
+        "name": "Pokedex em JavaScript com a POKE-API",
+        "url": "",
+        "github": true
+      },
+      {
+        "name": "Landpage UpsideDown",
+        "url": "",
+        "github": true
+      },
+      {
+        "name": "(TCC) CMS para site IFPR",
+        "url": "",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Atendimento ao Cliente / Caioba Telecom",
+        "period": "Dezembro 2020 - Janeiro 2021",
+        "description": "Prestei assistência aos clientes com suporte à conexão com a Internet, solução de problemas relacionados a modems, cabos, roteadores e outros assuntos técnicos.
+        Conduzi o suporte ao cliente por telefone, e-mail e chat, fornecendo orientações técnicas e problemas claros e concisos para a resolução do problema.
+        Ferramentas de software utilizadas para rastreamento de chamadas e registro de informações de suporte.
+        Trabalhei em equipe com outros membros do suporte técnico para garantir uma resolução de problemas rápida e eficiente.
+        Tecnologias utilizadas: modems, cabos, roteadores e outras soluções de conectividade de rede."
+      }
+    ]
+  }
