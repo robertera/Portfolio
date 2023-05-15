@@ -9,31 +9,31 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": ""
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/javascript.png"
         },
         {
           "name": "Java",
-          "logo": ""
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/java.png"
         },
         {
           "name": "TypeScript",
-          "logo": ""
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/typescript.png"
         },
         {
           "name": "React",
-          "logo": ""
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/react.png"
         },
         {
           "name": "PHP",
-          "logo": ""
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/php.png"
         },
         {
           "name": "Docker",
-          "logo": ""
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/docker.png"
         },
         {
             "name": "Git",
-            "logo": ""
+            "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/git.png"
         }
       ],
       "softSkills": [
@@ -53,17 +53,17 @@
     "portfolio": [
       {
         "name": "Pokedex em JavaScript com a POKE-API",
-        "url": "",
+        "url": "https://github.com/robertera/pokedex",
         "github": true
       },
       {
         "name": "Landpage UpsideDown",
-        "url": "",
+        "url": "https://github.com/robertera/Lading-Page-UpsideDown",
         "github": true
       },
       {
         "name": "(TCC) CMS para site IFPR",
-        "url": "",
+        "url": "https://github.com/robertera/tcc",
         "github": true
       }
     ],
