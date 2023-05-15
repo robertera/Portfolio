@@ -9,31 +9,31 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/javascript.png"
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/javascript.png"
         },
         {
           "name": "Java",
-          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/java.png"
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/java.png"
         },
         {
           "name": "TypeScript",
-          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/typescript.png"
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/typescript.png"
         },
         {
           "name": "React",
-          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/react.png"
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/react.png"
         },
         {
           "name": "PHP",
-          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/php.png"
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/php.png"
         },
         {
           "name": "Docker",
-          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/docker.png"
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/docker.png"
         },
         {
             "name": "Git",
-            "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/git.png"
+            "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/git.png"
         }
       ],
       "softSkills": [
