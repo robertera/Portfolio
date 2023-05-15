@@ -9,31 +9,31 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": ""
+          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/javascript.png"
         },
         {
           "name": "Java",
-          "logo": ""
+          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/java.png"
         },
         {
           "name": "TypeScript",
-          "logo": ""
+          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/typescript.png"
         },
         {
           "name": "React",
-          "logo": ""
+          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/react.png"
         },
         {
           "name": "PHP",
-          "logo": ""
+          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/php.png"
         },
         {
           "name": "Docker",
-          "logo": ""
+          "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/docker.png"
         },
         {
             "name": "Git",
-            "logo": ""
+            "logo": "https://github.com/robertera/Portfolio/blob/master/data/imgs/git.png"
         }
       ],
       "softSkills": [
