@@ -53,17 +53,17 @@
     "portfolio": [
       {
         "name": "Pokedex em JavaScript com a POKE-API",
-        "url": "",
+        "url": "https://github.com/robertera/pokedex",
         "github": true
       },
       {
         "name": "Landpage UpsideDown",
-        "url": "",
+        "url": "https://github.com/robertera/Lading-Page-UpsideDown",
         "github": true
       },
       {
         "name": "(TCC) CMS para site IFPR",
-        "url": "",
+        "url": "https://github.com/robertera/tcc",
         "github": true
       }
     ],
