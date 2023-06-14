@@ -12,6 +12,10 @@
           "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/javascript.png"
         },
         {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/angular.png"
+        },
+        {
           "name": "Java",
           "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/java.png"
         },
