@@ -40,8 +40,7 @@ function updateHardSkills(profileData){
     const portfolio = document.getElementById('portfolio')
     portfolio.innerHTML = profileData.portfolio.map(project => {
         return `<li>
-        <h3 ${project.github ? 'class="github"': ''}>${project.name}</h3>
-        ${project.github ? `<img src="${assets/img/icons/github.svg}" alt="GitHub Logo" class="github-logo">` : ''}
+        <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
         <a href="${project.url}" target="_blank">${project.url}</a>
     </li>`
     }).join('')
