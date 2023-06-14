@@ -44,6 +44,11 @@
     ],
     "portfolio": [
       {
+        "name": "Most Popular Films in IMDB (Angular)",
+        "url": "https://github.com/robertera/film-carousel",
+        "github":true
+      },
+      {
         "name": "Pokedex em JavaScript com a POKE-API",
         "url": "https://github.com/robertera/pokedex",
         "github": true
