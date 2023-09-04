@@ -33,7 +33,7 @@ function updateHardSkills(profileData){
 
  function updateFrameworks(profileData){
     const frameworks = document.getElementById('profile.skills.frameworks')
-    frameworks.innerHTML = profileData.skills.frameworks.map(framework => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
+    frameworks.innerHTML = profileData.skills.frameworks.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
  }
 
  function updateLanguages(profileData){
