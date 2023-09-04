@@ -31,6 +31,11 @@ function updateHardSkills(profileData){
     hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
  }
 
+ function updateFrameworks(profileData){
+    const frameworks = document.getElementById('profile.skills.frameworks')
+    frameworks.innerHTML = profileData.skills.frameworks.map(framework => `<li><img src="${framework.logo}" alt="${framework.name}" title="${framework.name}"></li>`).join('')
+ }
+
  function updateLanguages(profileData){
     const languages = document.getElementById('languages')
     languages.innerHTML = profileData.languages.map(languages => `<li>${languages}</li>`).join('')
@@ -62,6 +67,7 @@ function updateHardSkills(profileData){
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
+    updateFrameworks(profileData)
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessionaExperience(profileData)

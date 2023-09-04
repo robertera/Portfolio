@@ -1,7 +1,11 @@
 .skills{
     display: flex;
     flex-direction: column;
+}
 
+.skills .tools > h3{
+    margin: 0;
+    padding: 0;
 }
 
 .skills .tools ul{
@@ -10,7 +14,7 @@
     justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;
-    margin: 0;
+    margin: 10px 0 10px 0;
     padding: 0;
     list-style: none;
 }
@@ -21,25 +25,52 @@
     margin: 0.5rem;
 }
 
+.skills .personal > h3{
+    margin: 0 15px 0;
+    padding: 0;
+}
+
 .skills .personal ul{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     flex-wrap: wrap;
-    margin: 0;
+    margin: 0 15px 0;
     padding: 0;
 }
 
 .skills .personal ul li{
-    margin-left: 2rem;
-    padding: .5rem;
+    margin-left: 1.5rem;
+    padding: 0.5rem;
 }
 
 @media only screen and (min-width: 768px) {
         .skills{
             display: grid;
             grid-template-columns: 1fr 1fr;
-
         }
+}
+
+@media screen and (max-width: 767px) {
+    .skills{
+        display: flex;
+        flex-direction: column;
     }
+
+    .skills .tools > h3 {
+        margin: 10px 0 0 0;
+        padding: 0;
+    }
+
+    .skills .personal > h3 {
+        margin: 20px 0 0 0;
+        padding: 0;
+    }
+
+    .skills .personal ul{
+        margin: 0;
+        justify-content: flex-start;
+    }
+
+}

@@ -1,7 +1,7 @@
 {
     "name": "Roberto C A Junior",
     "photo": "https://avatars.githubusercontent.com/u/60966517?v=4",
-    "job": "Junior Developer",
+    "job": "FullStack Developer",
     "location": "Matinhos - PR - BR",
     "phone": "(41) 9 9573-1599",
     "email": "robertokorzun@hotmail.com",
@@ -12,8 +12,8 @@
           "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/javascript.png"
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/angular.png"
+          "name": "TypeScript",
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/typescript.png"
         },
         {
           "name": "Java",
@@ -24,12 +24,30 @@
           "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/php.png"
         },
         {
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/python.png"
+        }
+      ],
+      "frameworks":[
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/angular.png"
+        },
+        {
+          "name": "Laravel",
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/laravel.png"
+        },
+        {
           "name": "Docker",
           "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/docker.png"
         },
         {
-            "name": "Git",
-            "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/git.png"
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/git.png"
+        },
+        {
+          "name": "Figma",
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/figma.png"
         }
       ],
       "softSkills": [
