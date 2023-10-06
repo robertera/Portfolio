@@ -22,17 +22,6 @@
         {
           "name": "PHP",
           "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/php.png"
-        }
-      ],
-
-      "frameworks": [
-        {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/angular.png"
-        },
-        {
-          "name": "Laravel",
-          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/laravel.png"
         },
         {
           "name": "Python",
