@@ -1,7 +1,7 @@
 {
     "name": "Roberto C A Junior",
     "photo": "https://avatars.githubusercontent.com/u/60966517?v=4",
-    "job": "Front End Developer",
+    "job": "FullStack Developer",
     "location": "Matinhos - PR - BR",
     "phone": "(41) 9 9573-1599",
     "email": "robertokorzun@hotmail.com",
@@ -22,6 +22,17 @@
         {
           "name": "PHP",
           "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/php.png"
+        }
+      ],
+
+      "frameworks": [
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/angular.png"
+        },
+        {
+          "name": "Laravel",
+          "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/laravel.png"
         },
         {
           "name": "Python",
@@ -50,6 +61,7 @@
           "logo": "https://raw.githubusercontent.com/robertera/Portfolio/master/data/imgs/figma.png"
         }
       ],
+
       "softSkills": [
         "Organização e Planejamento",
         "Facilidade em comunicação",
@@ -66,13 +78,13 @@
     ],
     "portfolio": [
       {
-        "name": "Most Popular Films in IMDB (Angular)",
-        "url": "https://github.com/robertera/film-carousel",
+        "name": "Projeto Mão Amiga - HACKHATON - Hack For Change (Alura ft Fiap)",
+        "url": "https://github.com/StefanyMikaelle/HackForChangeAlura",
         "github": true
       },
       {
-        "name": "Pokedex em JavaScript com a POKE-API",
-        "url": "https://github.com/robertera/pokedex",
+        "name": "Most Popular Films in IMDB (Angular)",
+        "url": "https://github.com/robertera/film-carousel",
         "github": true
       },
       {
@@ -87,6 +99,11 @@
       }
     ],
     "professionalExperience": [
+      {
+        "name": "Desenvolvedor Full-Stack / A.Naccarati",
+        "period": "Setembro 2023 - Atualmente",
+        "description": "Atuo como desenvolvedor full-stack na software house da empresa A.Naccarati, realizando construção e manutenção de softwares, utilizando tecnologias como Angular, TypeScript, SCSS, entre outras"
+      },
       {
         "name": "Atendimento ao Cliente / Caioba Telecom",
         "period": "Dezembro 2020 - Janeiro 2021",
